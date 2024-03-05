@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 37.5rem;
+    
+ 
+}
+
+.Birthday{
+    background-color: white;
+}
+
+.Clear_Button{
+width: 536px;
+height: 27px;
+top: 583px;
+left: 32px;
+padding: 6px, 0px, 6px, 0px;
+border-radius: 4px;
+background: #D946EF;
+
+
+}
+
+.Delete_Button{
+    background: #D946EF;
+    
+}
